@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'Put_YourMaManu-MD&DRtWCK7A#HbxOlZg0WgCxPHH-mO3jRMme0HG3QD1djoRluMemgIInu-MD&acE3CKhb#D437gbE-flkPMdNDPE4j-_TRC83ZpUov7gm9DPz0rYE_Session_ID', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
+SESSION_ID: process.env.SESSION_ID || 'Manu-MD&jY8QECaS#431f4OxEy66GgsWfmWARUUoFwqIfYWk_x1lPpyCCLP0', // Put your session id here ( after linked check your number and get session id it need start with Manu-MD& ) 🤍
 PORT: process.env.PORT || '3000',
 MONGODB: process.env.MONGODB || 'put_your_mongodb_url' // අනිවාරෙන් Mongodb Url එකක් ඕනි දන්නෙ නැත්නම් මගෙ වීඩියෝ එක බලලා හදාගන්න.🔥
 };
